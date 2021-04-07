@@ -23,3 +23,4 @@ Every epoch, a new picture can be generated, using the fresh nonce, that has inc
 ## References
 
 * [Book about`10 PRINT CHR$(205.5+RND(1)); : GOTO 10`](https://10print.org/) by Nick Montfort and others
+* [Tweet including the pen-plotted version](https://twitter.com/stakenuts/status/1379790271374835713)
